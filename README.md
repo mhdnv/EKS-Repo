@@ -18,4 +18,4 @@ Ecosystem and Community: Being a managed service, EKS benefits from continuous i
 
 - Installed kubect,eksctl and aws cli
 - Then is to crate EKS cluster, many ways like terraform script, through UI and eksctl command
--  here we are qusing eksctl command
+-  here we are using eksctl command
