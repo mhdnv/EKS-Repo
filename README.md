@@ -13,3 +13,9 @@ Security and Compliance: EKS is designed to meet various security standards and 
 Monitoring and Logging: EKS integrates with AWS CloudWatch for monitoring cluster health and performance metrics, making it easier to track and troubleshoot issues.
 
 Ecosystem and Community: Being a managed service, EKS benefits from continuous improvement, support, and contributions from the broader Kubernetes community.
+
+**Prerequisites**
+
+- Installed kubect,eksctl and aws cli
+- Then is to crate EKS cluster, many ways like terraform script, through UI and eksctl command
+-  here we are qusing eksctl command
